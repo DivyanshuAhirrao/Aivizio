@@ -1,25 +1,44 @@
 ## Project Structure ##
 
 Aivizio/
+
 ├── frontend/
 
 │   ├── src/
 
 │   ├── package.json
+
 │   ├── tsconfig.json
+
 │   └── vite.config.ts
+
+
 ├── backend/
+
 │   ├── app/
+
 │   │   ├── main.py
+
 │   │   ├── models.py
+
 │   │   ├── services/
+
 │   │   └── utils/
+
 │   ├── requirements.txt
+
 │   └── Dockerfile
+
+
 ├── .github/
+
 │   └── workflows/
+
 │       ├── frontend-deploy.yml
+
 │       └── backend-deploy.yml
+
+
 └── README.md
 
 
