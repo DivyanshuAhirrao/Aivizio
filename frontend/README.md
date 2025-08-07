@@ -2,7 +2,9 @@
 
 Aivizio/
 ├── frontend/
+
 │   ├── src/
+
 │   ├── package.json
 │   ├── tsconfig.json
 │   └── vite.config.ts
